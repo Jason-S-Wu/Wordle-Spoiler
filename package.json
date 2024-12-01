@@ -1,0 +1,17 @@
+{
+  "name": "wordle-spoiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-schedule": "^2.1.0",
+    "puppeteer": "^13.6.0"
+  }
+}
